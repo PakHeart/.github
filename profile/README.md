@@ -205,12 +205,12 @@ governance, privacy protection and responsible data stewardship.
 
 The initiative is being developed around principles including:
 
-- protection of participant and patient privacy;
-- appropriate governance and access control;
-- data provenance and traceability;
-- reproducible research practices;
-- clinically informed validation;
-- responsible use of biomedical data; and
+- protection of participant and patient privacy
+- appropriate governance and access control
+- data provenance and traceability
+- reproducible research practices
+- clinically informed validation
+- responsible use of biomedical data 
 - controlled management of research outputs.
 
 > [!IMPORTANT]
@@ -231,12 +231,12 @@ organization as they are developed and approved for release.
 
 These may include:
 
-- research software and tools;
-- technical documentation;
-- metadata and interoperability resources;
-- research publications;
-- reproducibility resources; and
-- approved project documentation.
+- Research software and tools
+- technical documentation
+- Metadata and interoperability resources
+- Research publications
+- Reproducibility resources
+- Approved project documentation.
 
 > **Resources currently available:** [TO BE ADDED AS PUBLIC RESOURCES ARE RELEASED]
 
