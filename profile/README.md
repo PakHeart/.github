@@ -2,9 +2,9 @@
   <img src="assets/pakheart-logo.png" alt="PakHeart Logo" width="280"/>
 </p>
 
-#<h1 align="center">PakHeart</h1>
-
-<h2 align="center">NATIONAL AI-READY ECG DATASET</h2>
+<h2 align="center">
+  <font color="#0B6B57">NATIONAL AI-READY ECG DATASET</font>
+</h2>
 
 <p align="center">
   <strong>
