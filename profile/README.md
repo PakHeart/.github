@@ -6,48 +6,46 @@
   />
 </p>
 
-<h1 align="center">
-  PakHeart
-</h1>
+<h1 align="center">PakHeart</h1>
 
-<h3 align="center">
-  NATIONAL AI-READY ECG DATASET
-</h3>
+<h3 align="center">NATIONAL AI-READY ECG DATASET</h3>
 
 <p align="center">
   <strong>
-    Building standardized, clinically validated and AI-ready ECG research infrastructure
+    Building standardized, traceable and clinically validated ECG research infrastructure
   </strong>
 </p>
 
 <p align="center">
-  Supporting population-specific cardiovascular research and future artificial intelligence development
+  Supporting population-specific cardiovascular research,
+  digital health innovation and future artificial intelligence development
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-ECG%20Research-0B6B57?style=for-the-badge" alt="ECG Research">
-  <img src="https://img.shields.io/badge/Focus-Medical%20AI-005EA8?style=for-the-badge" alt="Medical AI">
-  <img src="https://img.shields.io/badge/Research-Clinical%20Data%20Infrastructure-0F7C8F?style=for-the-badge" alt="Clinical Data Infrastructure">
+  <img src="https://img.shields.io/badge/ECG-Research-0B6B57?style=for-the-badge" alt="ECG Research">
+  <img src="https://img.shields.io/badge/Medical-AI-005EA8?style=for-the-badge" alt="Medical AI">
+  <img src="https://img.shields.io/badge/Cardiovascular-Digital%20Health-0F7C8F?style=for-the-badge" alt="Cardiovascular Digital Health">
 </p>
 
 ---
 
 <p align="center">
   <a href="#-about-pakheart">About</a> •
+  <a href="#-why-pakheart">Why PakHeart?</a> •
   <a href="#-our-vision">Vision</a> •
-  <a href="#-research-focus">Research Focus</a> •
-  <a href="#-pakheart-ecosystem">Ecosystem</a> •
+  <a href="#-phase-0">Phase-0</a> •
   <a href="#-research-infrastructure">Infrastructure</a> •
-  <a href="#-governance-and-responsible-research">Governance</a>
+  <a href="#-research-focus">Research</a> •
+  <a href="#-responsible-research">Governance</a>
 </p>
 
 ---
 
 ## 🔵 About PakHeart
 
-**PakHeart** is a research initiative focused on developing a standardized, clinically meaningful and AI-ready electrocardiogram (**ECG**) research resource.
+**PakHeart** is a NUST Living Lab research initiative focused on developing a standardized, clinically credible and AI-ready electrocardiogram (**ECG**) research resource for Pakistan.
 
-The project brings together expertise in:
+The initiative brings together complementary expertise in:
 
 - cardiovascular and clinical research;
 - biomedical signal processing;
@@ -56,105 +54,55 @@ The project brings together expertise in:
 - research governance;
 - quality assurance and validation.
 
-PakHeart is designed to support the development of high-quality ECG research infrastructure that can enable reproducible cardiovascular studies and future population-relevant AI applications.
+PakHeart is designed to establish the foundational infrastructure required for high-quality, reproducible and population-relevant ECG research.
+
+Rather than focusing only on training individual AI models, PakHeart aims to establish the complete research foundation required to responsibly collect, standardize, validate and study ECG data.
 
 ---
 
-## 🟢 Our Vision
+## 🟢 Why PakHeart?
 
-Reliable healthcare AI begins with reliable data.
+Cardiovascular disease remains a major health challenge in Pakistan, yet researchers developing data-driven and AI-based cardiovascular technologies often depend on ECG datasets collected predominantly from populations outside Pakistan.
 
-PakHeart is being developed around the principle that ECG research should be supported by data that are:
+International datasets such as **PTB-XL** and **MIMIC-IV** are valuable resources for benchmarking and methodological research. However, locally representative ECG resources are also needed to investigate population, healthcare-system, device and clinical differences.
 
-- standardized;
-- traceable;
-- clinically meaningful;
-- quality-controlled;
-- reproducible;
-- responsibly governed;
-- suitable for future AI research.
+PakHeart addresses this gap by developing the standards, governance, engineering and validation infrastructure required for a population-relevant ECG research ecosystem.
 
-The long-term vision is to establish a robust ECG research ecosystem that supports both methodological development and clinically relevant cardiovascular research.
+The objective is not simply to create another collection of ECG files.
 
----
+The objective is to build a resource that is:
 
-## 🔵 Research Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 ECG Data Infrastructure
-
-- ECG acquisition and source-format understanding
-- standardized ECG metadata
-- data harmonization
-- ECG format standardization
-- signal quality assessment
-- reproducible data processing
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔵 AI & Cardiovascular Research
-
-- ECG machine learning
-- AI-readiness validation
-- clinical annotation
-- population-specific ECG analysis
-- lead-reduction research
-- lead reconstruction
-- reproducible model evaluation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🟢 PakHeart Ecosystem
-
-PakHeart is organized into complementary research, technical and governance areas.
-
-| Area | Purpose |
+| Principle | Meaning |
 |---|---|
-| **Governance** | Research governance, controlled documentation, privacy and responsible data management |
-| **Metadata** | ECG metadata specifications, data dictionaries and machine-readable schemas |
-| **Data Collection** | Standardized ECG acquisition and data-collection workflows |
-| **Ingestion** | ECG intake, parsing, conversion and format standardization |
-| **Validation** | File, signal, metadata and AI-readiness validation |
-| **Clinical Research** | Clinical interpretation, annotation and cardiovascular research |
-| **AI Research** | Machine-learning and deep-learning methods for ECG analysis |
-| **Knowledge Resources** | Literature, public datasets, standards and technical references |
-| **Dissemination** | Approved publications, research communication and project outputs |
+| **Standardized** | ECG signals and associated metadata follow clearly defined structures |
+| **Traceable** | Research data retain provenance from acquisition through processing and validation |
+| **Quality Controlled** | File, signal and metadata quality can be assessed systematically |
+| **Clinically Relevant** | Clinical interpretation and validation remain part of the research lifecycle |
+| **Reproducible** | Processing and analysis steps can be reconstructed and evaluated |
+| **Responsibly Governed** | Privacy, ethics, access and data stewardship are considered from the outset |
+| **AI-Ready** | Data can support rigorous machine-learning and cardiovascular research |
 
 ---
 
-## 🔵 Research Infrastructure
+## 🔵 Our Vision
 
-PakHeart is being developed to support a traceable ECG research lifecycle:
+<p align="center">
+  <strong>Reliable healthcare AI begins with reliable data.</strong>
+</p>
+
+PakHeart aims to establish a sustainable ECG research infrastructure capable of supporting:
 
 ```text
-ECG Acquisition
-       │
-       ▼
-Standardized Data Intake
-       │
-       ▼
-Format Processing
-       │
-       ▼
-Metadata Harmonization
-       │
-       ▼
-Quality Control
-       │
-       ▼
-Clinical / Research Validation
-       │
-       ▼
-AI-Ready Research Data
-       │
-       ▼
-ECG & Cardiovascular AI Research
+Population-Specific Cardiovascular Research
+                  │
+                  ▼
+Reproducible Biomedical Signal Analysis
+                  │
+                  ▼
+Cross-Population Evaluation
+                  │
+                  ▼
+Clinically Relevant Artificial Intelligence
+                  │
+                  ▼
+Future Digital-Health Innovation
